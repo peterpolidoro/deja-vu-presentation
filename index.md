@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/index.png)](sharing)
+[![](assets/img/index.png)](robot-fly)
