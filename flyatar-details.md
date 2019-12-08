@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/flyatar-details.gif)](turtlesim)
+[![](assets/img/flyatar-details.gif)](flyatar-paper)
