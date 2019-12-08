@@ -1,0 +1,15 @@
+#+TITLE: deja-vu-presentation
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+  [[https://peterpolidoro.github.io/deja-vu-presentation/]]
+
+* Presentation
+
+  [[https://peterpolidoro.github.io/deja-vu-presentation/][Slides]]
+
+  [[https://peterpolidoro.github.io/deja-vu-presentation/text][Text]]
