@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/flymad-dataflow.png)](flymad-dataflow)
+[![](assets/img/flymad-dataflow.png)](alcohol-assay)
