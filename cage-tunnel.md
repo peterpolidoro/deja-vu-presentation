@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/cage-tunnel.png)](cage-tunnel)
+[![](assets/img/cage-tunnel.png)](one-cage-architecture)
