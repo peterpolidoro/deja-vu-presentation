@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/matlab-node-code.png)](matlab-node-code)
+[![](assets/img/matlab-node-code.png)](ros-ten-cage-architecture-b)
