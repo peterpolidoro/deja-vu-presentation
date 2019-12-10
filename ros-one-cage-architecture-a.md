@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/ros-one-cage-architecture-a.png)](ros-one-cage-architecture-a)
+[![](assets/img/ros-one-cage-architecture-a.png)](ros-one-cage-software-a)
