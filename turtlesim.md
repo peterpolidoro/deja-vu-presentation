@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/turtlesim.png)](turtle-key)
+[![](assets/img/turtlesim.png)](logo)
