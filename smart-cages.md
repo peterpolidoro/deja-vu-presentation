@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/smart-cages.png)](index)
+[![](assets/img/smart-cages.png)](ros-cage-tunnel-router)
